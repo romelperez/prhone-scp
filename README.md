@@ -1,0 +1,2 @@
+# scp
+Simple config parser.
