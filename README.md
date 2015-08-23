@@ -1,5 +1,7 @@
 # PRHONE SCP
-> Simple config parser. 
+> Simple config parser.
+
+[![Build Status](https://travis-ci.org/romelperez/prhone-scp.svg?branch=master)](https://travis-ci.org/romelperez/prhone-scp)
 
 Parse simple config files to extract configurable information for your projects.
 
