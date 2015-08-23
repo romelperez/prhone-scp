@@ -1,0 +1,28 @@
+{
+  "name": "prhone-scp",
+  "version": "0.1.0",
+  "description": "Simple config parser",
+  "keywords": [
+    "prhone",
+    "config",
+    "parser",
+    "module"
+  ],
+  "readme": "README.md",
+  "license": "MIT",
+  "private": false,
+  "author": {
+    "name": "Romel Pérez",
+    "email": "ronelprhone@gmail.com",
+    "url": "http://romelperez.blogspot.com"
+  },
+  "homepage": "https://github.com/romelperez/prhone-scp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/romelperez/prhone-scp.git"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
