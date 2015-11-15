@@ -62,4 +62,4 @@ scp.parse(__dirname +'/data/config.conf', function (err, conf) {
 ```
 ## License
 
-MIT
+[MIT](https://github.com/romelperez/prhone-scp/blob/master/LICENSE)
