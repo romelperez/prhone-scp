@@ -1,21 +1,23 @@
 # PRHONE SCP
-> Simple config parser.
 
+[![npm version](https://badge.fury.io/js/prhone-scp.svg)](https://badge.fury.io/js/prhone-scp)
 [![Build Status](https://travis-ci.org/romelperez/prhone-scp.svg?branch=master)](https://travis-ci.org/romelperez/prhone-scp)
+
+> Simple config parser.
 
 Parse simple config files to extract configurable information for your projects.
 
 ## Install
 
 ```bash
-npm install prhone-scp
+npm install --save prhone-scp
 ```
 
 ## Example
 
 ### __dirname + '/data/config.conf'
 
-```
+```text
 # Config file.
 # Comments start with "#".
 
@@ -60,6 +62,7 @@ scp.parse(__dirname +'/data/config.conf', function (err, conf) {
   console.log(conf.ADDRESS);  // 'STREET 987 AVE 456'
 });
 ```
+
 ## License
 
 [MIT](https://github.com/romelperez/prhone-scp/blob/master/LICENSE)
