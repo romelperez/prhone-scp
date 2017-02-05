@@ -2,6 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/prhone-scp.svg)](https://badge.fury.io/js/prhone-scp)
 [![Build Status](https://travis-ci.org/romelperez/prhone-scp.svg?branch=master)](https://travis-ci.org/romelperez/prhone-scp)
+[![prhone](https://img.shields.io/badge/prhone-project-1b38a9.svg)](http://romelperez.com)
 
 > Simple config parser.
 
